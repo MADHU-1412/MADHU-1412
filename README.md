@@ -10,7 +10,7 @@
 
 
 ### 💡 Skills  
-**Languages:** Python, SQL, R  
+**Languages:** Python, SQL, 
 **Tools:** Power BI, Tableau, MySQL  
 **Frameworks:** TensorFlow, Keras, Scikit-learn  
 
