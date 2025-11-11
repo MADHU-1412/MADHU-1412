@@ -6,43 +6,37 @@
 ---
 
 ### 🚀 About Me  
-I’m a data enthusiast who loves turning raw data into meaningful insights.  
-Skilled in **Python, SQL, Power BI, TensorFlow, and Keras**, I enjoy building predictive models, automating workflows, and creating visual dashboards.  
+I’m a data enthusiast who loves transforming raw data into meaningful insights.  
+Skilled in **Python, SQL, Power BI, TensorFlow, and Keras**, I focus on building predictive models and data-driven applications.  
 
-🔬 **Publications**  
+---
+
+### 🔬 Publications  
 - [Intelligent Road Mark Detection Using YOLOv8 for Autonomous Navigation](https://www.atlantis-press.com/proceedings/icarecs-25/126012913)  
 - [Sign Language Recognition Using Graph Convolutional Networks with Attention and Residual Connections](https://www.ijaresm.com/sign-language-recognition-using-graph-convolutional-networks-integrated-with-attention-and-residual-connections)  
 
 ---
 
 ### 💡 Skills  
-- **Programming:** Python, SQL, R  
-- **Data Tools:** Power BI, Tableau, MySQL  
-- **ML Frameworks:** TensorFlow, Keras, Scikit-learn  
-- **Core Areas:** Data Science, Machine Learning, Data Analytics  
+**Languages:** Python, SQL, R  
+**Tools:** Power BI, Tableau, MySQL  
+**Frameworks:** TensorFlow, Keras, Scikit-learn  
 
 ---
 
 ### 💼 Experience  
 **8 Queens Technology — Software Engineer Intern (Nov 2024 – Sep 2025)**  
-Developed automation scripts and ETL pipelines to improve data processing and software performance.  
+Developed automation scripts and ETL pipelines for efficient data processing.  
 
 **HDLC Technology — Machine Learning Intern (Sep 2023 – Feb 2024)**  
-Built predictive models and visual dashboards to extract actionable insights from complex datasets.  
-
----
-
-### 🌱 Currently Exploring  
-- Advanced Machine Learning  
-- Real-time Data Visualization  
-- Model Deployment using Streamlit & Flask  
+Built predictive models and visual dashboards to extract actionable insights.  
 
 ---
 
 ### 📫 Connect With Me  
-📧 **Email:** [madhu1412.goal@gmail.com](mailto:madhu1412.goal@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](www.linkedin.com/in/madhupriya-chandrasekar)  
-🐙 **GitHub:** [github.com/yourusername](https://github.com/MADHU-1412)  
+📧 [madhu1412.goal@gmail.com](mailto:madhu1412.goal@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/madhupriya-chandrasekar)  
+🐙 [GitHub](https://github.com/MADHU-1412)  
 
 ---
 
