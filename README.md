@@ -4,11 +4,6 @@
 💻 **Aspiring Data Scientist** passionate about Machine Learning, Data Analytics, and AI-driven solutions.  
 
 
-### 🚀 About Me  
-I’m a data enthusiast who loves transforming raw data into meaningful insights.  
-Skilled in **Python, SQL, Power BI, TensorFlow, and Keras**, I focus on building predictive models and data-driven applications.  
-
-
 ### 🔬 Publications  
 - [Intelligent Road Mark Detection Using YOLOv8 for Autonomous Navigation](https://www.atlantis-press.com/proceedings/icarecs-25/126012913)  
 - [Sign Language Recognition Using Graph Convolutional Networks with Attention and Residual Connections](https://www.ijaresm.com/sign-language-recognition-using-graph-convolutional-networks-integrated-with-attention-and-residual-connections)  
