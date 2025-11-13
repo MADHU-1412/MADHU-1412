@@ -15,14 +15,6 @@
 **Frameworks:** TensorFlow, Keras, Scikit-learn  
 
 
-### 💼 Experience  
-**8 Queens Technology — Software Engineer Intern (Nov 2024 – Sep 2025)**  
-Developed automation scripts and ETL pipelines for efficient data processing.  
-
-**HDLC Technology — Machine Learning Intern (Sep 2023 – Feb 2024)**  
-Built predictive models and visual dashboards to extract actionable insights.  
-
-
 ### 📫 Connect With Me  
 📧 [madhu1412.goal@gmail.com](mailto:madhu1412.goal@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/madhupriya-chandrasekar)  
