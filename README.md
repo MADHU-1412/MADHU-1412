@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Madhu Priya  
 
-🎓 **B.Tech in Information Technology** | CGPA: 9.39  
+🎓 **B.Tech in IT** | CGPA: 9.39  
 💻 **Aspiring Data Scientist** passionate about Machine Learning, Data Analytics, and AI-driven solutions.  
 
 
@@ -16,9 +16,6 @@
 
 
 ### 📫 Connect With Me  
-📧 [madhu1412.goal@gmail.com](mailto:madhu1412.goal@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/madhupriya-chandrasekar)  
-🐙 [GitHub](https://github.com/MADHU-1412)  
-
+📧 [madhu1412.goal@gmail.com](mailto:madhu1412.goal@gmail.com)  |💼 [LinkedIn](https://www.linkedin.com/in/madhupriya-chandrasekar)  |🐙 [GitHub](https://github.com/MADHU-1412)  
 
 ⭐️ *“Turning data into stories that inspire action.”*  
