@@ -10,9 +10,7 @@
 
 
 ### 💡 Skills  
-**Languages:** Python, SQL, 
-**Tools:** Power BI, Tableau, MySQL  
-**Frameworks:** TensorFlow, Keras, Scikit-learn  
+** Python • SQL • Pandas • NumPy • Scikit-learn • ML Algorithms • EDA • Statistics • Model Evaluation • Feature Engineering • Power BI/Tableau • GitHub • Basic Deep Learning (PyTorch) • Streamlit/Flask  
 
 
 ### 📫 Connect With Me  
